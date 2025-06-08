@@ -1,0 +1,17 @@
+{
+  "Venkat": {
+    "daily_quiz": "Completed",
+    "coding_challenge": "In Progress",
+    "assignment": "Submitted",
+    "certification": "In Progress",
+    "workflow": {
+      "profile_updated": true,
+      "daily_quiz_completed": true,
+      "coding_challenge_submitted": false,
+      "assignment_submitted": true,
+      "certification_completed": false
+    },
+    "skill": "Python",
+    "department": "Data Engineering"
+  }
+}
